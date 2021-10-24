@@ -1,0 +1,55 @@
+body
+{
+	background: antiquewhite;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+	color:rgb(87, 103, 104);
+
+	border:solid;
+	border-radius: 30px;
+	margin-right: 360px;
+	margin-left: 360px;
+	background-color:lightyellow;
+	text-shadow:1px 3px midnightblue;
+	font-family: fantasy;
+}
+h2{
+	color:darkslateblue;
+	text-decoration: underline;
+	
+	text-decoration-color: thistle;
+	font-family: cursive;
+}
